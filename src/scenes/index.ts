@@ -1,5 +1,5 @@
-import ExampleScene from './ExampleScene';
+import TitleScene from './TitleScene';
 
 export const scenes: Phaser.Types.Scenes.SceneType[] = [
-  ExampleScene
+  TitleScene
 ];
