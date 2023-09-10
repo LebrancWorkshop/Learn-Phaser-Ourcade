@@ -1,8 +1,7 @@
 import { Phaser } from '../phaser';
 import { scenes } from '../scenes';
-import { IConfig } from '../@types';
 
-export const config: IConfig = {
+export const config: Phaser.Types.Core.GameConfig = {
   type: Phaser.AUTO,
   parent: 'canvas',
   width: window.innerWidth,

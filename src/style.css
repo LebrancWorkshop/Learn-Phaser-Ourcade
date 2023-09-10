@@ -13,9 +13,10 @@ footer {
   height: 50px;
   text-align: center;
   font-size: 20px;
+  color: black;
 }
 
 footer a {
-  color: #4fa4ff;
+  color: #035cbb;
   text-decoration: none;
 }
